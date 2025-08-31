@@ -1,0 +1,390 @@
+Spot. Spot saw the shiny car and said, "Wow, Kitty, your car is so bright and clean!" Kitty smiled and replied, "Thank you, Spot. I polish it every day."
+
+After playing with the car, Kitty and Spot felt thirsty. They found a small pond with clear water. They drank the water and felt very happy. They played together all day and became best friends.
+#### Perplexity: 163.35968017578125 vs. 427.6372375488281(base) ####
+Once upon a time, there was a little boy named Tim. Tim had a big, orange ball. He loved his ball very much. One day, Tim met a girl named Sue. Sue had a pretty doll. Tim liked Sue's doll, and Sue liked Tim's orange ball.
+
+Tim and Sue thought about a trade. They would trade the ball for the doll. Tim was not sure. He loved his orange ball. Sue said, "I promise to take care of your ball. You can play with it when you want." Tim said, "I promise to take care of your doll too."
+
+They did the trade. Tim played with the doll, and Sue played with the orange ball. But then, Sue's big dog came. The dog saw the orange ball and thought it was a toy. The dog bit the ball and it popped. Tim was very sad, and Sue was sorry. The trade was not good, and the orange ball was gone forever.
+#### Perplexity: 11.020027160644531 vs. 25.9755802154541(base) ####
+One day, a little boy named Tim went to play with his friend, Sam. They wanted to play a game with a ball. The game was to see who could get the best score.
+
+Tim threw the ball and Sam tried to catch it. Sam missed the ball and it went far away. Sam was angry. He said, "I don't like this game. I want to lie down and rest."
+
+Tim said, "Okay, let's lie down and rest. Then we can try again to get a good score." They lay down under a big tree and looked at the sky. They saw birds flying and clouds moving.
+
+After a while, they got up and played the game again. This time, Sam caught the ball and got a good score. Sam was happy and not angry anymore.
+
+"Good job, Sam!" said Tim. They played the game all day and had lots of fun. They learned that sometimes it's good to take a break and try again.
+#### Perplexity: 15.914983749389648 vs. 41.77986145019531(base) ####
+One day, a little boy named Tim found a big, red truck. The truck was very dirty. Tim thought, "I need to clean the truck to make it look nice."
+
+Tim went to his mommy and said, "Mommy, I need water and soap to clean my truck." Mommy gave Tim a bucket of water and soap. Tim went outside and washed the truck. The truck was now clean and shiny.
+
+After cleaning the truck, Tim felt hungry. He went inside and mommy gave him a yummy sandwich. Tim ate the sandwich and felt happy. He played with his clean, red truck all day long.
+#### Perplexity: 45.95000457763672 vs. 148.4347381591797(base) ####
+Once upon a time, there was a little bug named Buzz. Buzz was a curious bug who loved to explore. One day, Buzz saw a bright bulb in the distance and wanted to crawl over to it. 
+
+As Buzz crawled closer, he saw a big spider guarding the bulb. The spider didn't want Buzz to get too close. Buzz was scared, but he really wanted to see the bulb up close. 
+
+Buzz had an idea! He crawled around the spider and quickly grabbed the bulb. The spider was angry and chased after Buzz. Buzz crawled as fast as he could, but the spider was getting closer and closer. 
+
+Just as the spider was about to catch Buzz, Buzz dropped the bulb and ran away. The spider stopped chasing Buzz and went to guard the bulb again. Buzz was safe and learned that sometimes it's best to be careful when exploring.
+#### Perplexity: 11.432825088500977 vs. 29.954730987548828(base) ####
+Once upon a time, there was a boy named Timmy. Timmy loved to swim in the ocean with his mommy and daddy. One day, while swimming, Timmy saw a big shark. He was scared and started to cry. His mommy and daddy told him that it was just a normal shark and that they were safe.
+
+But the next day, Timmy didn't want to go swimming anymore. He was too scared of the shark. His mommy and daddy tried to make him feel better, but he just wasn't enjoying himself anymore. They knew they had to do something to help Timmy overcome his fear.
+
+So, they took him to a place where he could see lots of different kinds of sharks. Timmy was amazed and started to enjoy looking at them. He even got to touch a baby shark! After that, Timmy wasn't scared of sharks anymore and he could enjoy swimming in the ocean again.
+#### Perplexity: 11.44854736328125 vs. 26.332412719726562(base) ####
+Once upon a time, there was a little girl named Lily. She loved to play with her toys and eat yummy snacks. One day, her mommy made her a delicious lunch with a sandwich and some fruit.
+
+But when Lily tried to eat her sandwich, she got frustrated because it was too big to fit in her mouth. She tried to take a bite, but it just fell apart. So, she decided to eat her fruit instead.
+
+After lunch, Lily went to play with her toys. She was playing with her toy stove and accidentally touched the hot burner. It burned her little finger and she cried out in pain. Her mommy came to help her and put some cool water on her finger to make it feel better. From that day on, Lily was very careful around the toy stove and never touched the burners again. The end.
+#### Perplexity: 115.29161071777344 vs. 254.67848205566406(base) ####
+Once upon a time, there was a little girl named Lily. She loved to walk on the trail with her dog, Max. Max was very independent and liked to run ahead of Lily. 
+
+One day, Lily and Max went on a walk and they saw a little bird who fell from its nest. Lily wanted to help the bird, so she picked it up and brought it home. 
+
+At home, Lily served the bird some water and food. The bird was very happy and started to feel better. Lily was happy too because she helped the bird. From that day on, Lily and Max went on walks and helped other animals they saw on the trail.
+#### Perplexity: 26.164052963256836 vs. 81.12841796875(base) ####
+Once upon a time, there was a little girl named Lily. She loved to play outside in the sun with her friends. One day, Lily's mom asked her to help with the laundry. They washed the clothes in the machine and then put them in the dryer to make them dry.
+
+After the clothes were all dry, Lily's mom asked her to help fold them. They folded the clothes and then put them in a big basket. Lily's mom told her to take the basket to the stand in their room where they store the clothes.
+
+Lily was happy to help her mom and felt proud of herself for being such a good helper. She knew that her mom was happy too because she gave her a big hug and a kiss on the cheek. From that day on, Lily loved helping her mom with the laundry and always remembered to put the clothes in the stand where they store them.
+#### Perplexity: 7.231952667236328 vs. 17.429767608642578(base) ####
+Once upon a time, there was a woman named Lily. She loved to go for walks in the park. One day, she met a rude man who said mean things to her. 
+
+The woman asked, "Why are you being rude to me?" 
+
+The man replied, "I don't like people who go for walks in the park." 
+
+The woman didn't let the man's words hurt her feelings. She continued to go for walks in the park every day. 
+
+One day, the man saw the woman again and apologized for being rude. He said, "I was wrong to say mean things to you. Can we be friends?" 
+
+The woman smiled and said, "Of course! I'm happy to go for a walk with you." And from that day on, they went for walks in the park together and became good friends.
+#### Perplexity: 12.493776321411133 vs. 35.5108757019043(base) ####
+Once upon a time, there was a little boy named Timmy. Timmy loved to eat peaches. One day, he saw a peach on the ground and picked it up. But the peach was hard and not ripe yet. Timmy was sad because he couldn't eat it.
+
+Timmy's mom saw him and said, "Don't worry, Timmy. The peach will be ripe soon. Just wait a little longer." Timmy waited and waited, and finally, the peach became soft and juicy. He was so happy that he could finally eat it.
+
+From that day on, Timmy learned that good things come to those who wait. He also learned that sometimes things might seem hard or sharp, but with a little patience, they can become sweet and delicious, just like his peach.
+#### Perplexity: 9.625521659851074 vs. 25.9827823638916(base) ####
+Once upon a time, there was a little boy named Timmy. Timmy loved to play with his toys, but he didn't like to share them with his friends. One day, Timmy's friend came over to play. Timmy didn't want to share his toys, so his friend went home feeling sad.
+
+That night, Timmy couldn't sleep. He felt guilty for not sharing his toys. The next day, Timmy went to his friend's house and said sorry. His friend forgave him and they played together happily.
+
+Timmy learned that not sharing his toys could result in losing his friends. He promised to always share and never make his friends scream or feel sad again. The end.
+#### Perplexity: 16.931922912597656 vs. 50.682090759277344(base) ####
+Once upon a time, there was a little boy named Timmy. Timmy loved to play with his toy cars and trucks. One day, Timmy's dad took him to the park to ride his bike. Timmy's bike had gears that made it go faster.
+
+Timmy's dad asked him if he wanted to ride on the bike path. Timmy said yes and they rode on the clear path. Timmy loved the feeling of the wind in his hair as they rode faster and faster. 
+
+After a while, Timmy's legs got tired and they stopped to take a break. Timmy's dad asked him if he wanted a snack and Timmy said yes. They sat on a bench and ate some crackers together. Timmy was happy to spend time with his dad and ride his bike with gears on the clear path.
+#### Perplexity: 33.96950149536133 vs. 98.74494934082031(base) ####
+Once upon a time, there was an old lady. She was very old and her hair was white like snow. She lived in a big house with a garden full of flowers. One day, she went to the classroom to teach the children. The classroom was big and had lots of toys.
+
+The old lady taught the children how to read and write. They all loved her because she was kind and funny. Suddenly, the phone rang and the old lady had to answer it. It was her daughter calling to check on her. The children waited patiently while the old lady talked on the phone.
+
+After the call, the old lady said goodbye to the children and went back to her house. She was happy because she had a good day with the children in the classroom. The end.
+#### Perplexity: 21.443740844726562 vs. 60.41836166381836(base) ####
+Once upon a time, there was a big elephant named Ellie. Ellie was very tidy and always kept her room clean. One day, her friend monkey came to visit her. Monkey said, "Ellie, your room is so tidy! Can you teach me how to tidy my room too?" Ellie replied, "Sure, I can serve as your teacher and show you how to tidy up."
+
+Ellie started teaching Monkey how to tidy up his room. She said, "First, we need to pick up all the toys and put them in their proper place. Then, we need to make the bed and fold the blankets. Finally, we need to sweep the floor and make sure everything is in its right weight." Monkey was happy to learn and said, "Thank you, Ellie! You are such a great teacher." 
+
+Ellie smiled and said, "It was my pleasure to serve as your teacher. Now, let's have some fun and play with our toys!" The two friends played and had a great time in Ellie's tidy room. From that day on, Monkey always kept his room tidy just like Ellie's.
+#### Perplexity: 21.722387313842773 vs. 50.93525695800781(base) ####
+Once upon a time, there was a dog named Max. Max was an ordinary dog with a brown collar. One day, Max went for a walk with his owner, Lily. They were having a good time until a big thunderstorm came.
+
+Max was scared of the loud thunder and ran away from Lily. He ran and ran until he saw a cat. Max wanted to play with the cat, but the cat didn't want to play. The cat hissed at Max and Max got angry. He tried to strike the cat with his paw, but he missed.
+
+Suddenly, a car came and hit Max. Lily came running and saw that Max was hurt. She took him to the vet, but it was too late. Max had passed away. Lily was very sad and wished Max had stayed with her instead of running away.
+#### Perplexity: 8.906978607177734 vs. 21.561796188354492(base) ####
+Once upon a time, there was a little boy named Timmy who loved to read. He had a big book with lots of pictures and words. One day, he went outside to play and saw a pile of leaves. He wanted to jump in them, but they were too messy. 
+
+Timmy's mom came outside and saw the leaves. "We need to rake these leaves," she said. "Can you help me, Timmy?" Timmy was brave and said yes. They worked together and raked all the leaves into a big pile. 
+
+Then, Timmy's little sister came outside and wanted to jump in the pile. But Timmy said no because they worked hard to make it neat. His sister got upset and started to cry. Timmy felt bad, so he read her a story from his book. She stopped crying and they all played together in the leaves. The end.
+#### Perplexity: 48.31199264526367 vs. 111.33147430419922(base) ####
+Once upon a time, there was a little girl named Lily. She liked to play outside in the sunshine with her dog. One day, while they were playing, Lily discovered a pretty rock. She picked it up and showed it to her dog. 
+
+Later that day, Lily's mom showed her an image of a butterfly in a book. Lily thought it was very beautiful and wanted to see a real butterfly. So, she went outside to look for one. After a while, she saw a butterfly flying around in the garden. She was very happy to have discovered it.
+
+Lily was a very compassionate girl. When she saw her friend crying, she gave her a hug and told her everything would be okay. Her friend felt much better after that. Lily learned that being kind and caring can make others feel better.
+#### Perplexity: 6.242855548858643 vs. 14.508920669555664(base) ####
+Once upon a time, there was a little girl named Lily. She loved to play with glue and make pretty pictures. One day, Lily's friend came over to play. They started to make a big picture together, but it was difficult to stick all the pieces together.
+
+Lily's friend said, "I don't want to play anymore. This is too difficult." But Lily did not want to give up. She said, "Let's keep trying. We can do it!" 
+
+After a while, they finally finished the picture. Lily's friend was so happy and said, "You were right, Lily. We did it! I'm sorry I lied and said it was too difficult." 
+
+Lily forgave her friend and they had lots of fun playing with glue and making more pictures together.
+#### Perplexity: 166.04754638671875 vs. 433.7551574707031(base) ####
+Anna and Ben are twins. They like to play with their toys and books. They also like to make jokes and tricks. One day, they find a big box in the living room. It has a bow and a tag. The tag says: "To Anna and Ben, from Santa".
+
+Anna and Ben are very happy. They think Santa came early this year. They want to open the box and see what is inside. But they also want to wait for Christmas. They are confused. What should they do?
+
+They decide to make a plan. They will open the box very carefully and see what is inside. Then they will wrap it again and put it back. They will act surprised on Christmas. They think this is a good joke.
+
+They open the box and see a big teddy bear. It is soft and brown. It has a red scarf and a hat. Anna and Ben love it. They hug it and play with it. They forget about their plan. They forget about the time.
+
+Mom and Dad come home. They see Anna and Ben with the teddy bear. They see the box and the paper. They are not happy. They are angry. They ask Anna and Ben what they did. Anna and Ben are scared. They try to lie. They say they found the teddy bear outside. They say they did not open the box.
+
+Mom and Dad know the truth. They are not stupid. They tell Anna and Ben that they are naughty. They tell them that they broke the rule. They tell them that they have to say sorry. They tell them that they have to give back the teddy bear. They tell them that they have to wait for Christmas.
+
+Anna and Ben are sad. They cry. They say sorry. They give back the teddy bear. They wrap it again and put it back. They learn their lesson. They do not make jokes and tricks with presents. They do not lie to Mom and Dad. They wait for Christmas. They hope Santa will forgive them.
+#### Perplexity: 23.851016998291016 vs. 65.51712036132812(base) ####
+Ben and Mia like to play in the big room with many books and papers. They see a big box with a lock on it. They want to know what is inside. They look for a key, but they cannot find one. They see a metal thing that looks like a stick. It is a file. They think it can open the lock.
+
+They take the file and try to put it in the lock. They push and pull, but nothing happens. They hear a loud noise. It is a beep. They look at the box. It has a red light and a number. The number is going down. 10, 9, 8...
+
+They do not know what it means. They are scared. They tremble. They want to run away, but they do not know how. The door is locked too. They scream for help, but no one hears them. The number is going down. 3, 2, 1...
+
+The box explodes. It makes a big fire and a big boom. It hurts Ben and Mia. They fall down and do not get up. The box was dangerous. It was a bomb. Someone put it there to hurt people. Ben and Mia did not know. They just wanted to play. They are gone. The end.
+#### Perplexity: 44.156166076660156 vs. 134.0783233642578(base) ####
+Anna and Ben are twins. They like to play outside when it is sunny. But today it is rainy and they have to stay inside. They are very bored.
+
+They look at the window and see a big puddle. They want to jump in the puddle and splash. They ask their mom if they can go outside. Mom says no, it is too wet and cold. They have to wait until the rain stops.
+
+Anna and Ben are sad and angry. They think mom is mean. They look for something fun to do inside. They find an umbrella in the closet. They open the umbrella and pretend it is a tent. They crawl under the umbrella and make funny noises.
+
+Mom hears the noises and comes to see what they are doing. She sees the umbrella on the floor and the twins under it. She smiles and says they are very clever. She asks if they want to play a game with her. They say yes, they want to play.
+
+Mom takes the umbrella and holds it over her head. She says she is a giant and they are tiny ants. She pretends to chase them around the room. They run and hide and laugh. They wave at mom and she waves back. They have fun and forget about the rain. They are not bored anymore.
+#### Perplexity: 69.80442810058594 vs. 236.01284790039062(base) ####
+Sam and Mia were playing in the park. They liked to ride their bikes on the paths and go down the slides. They wore helmets to keep their heads safe. They were lively and happy.
+
+"Look, Mia, a big hill!" Sam said. "Let's go up and see what's on the other side."
+
+"OK, Sam, but be careful!" Mia said. "The hill is steep and bumpy."
+
+They pedaled hard and reached the top of the hill. They saw a pond with ducks and a bridge. They also saw a sign that said "No bikes allowed".
+
+"Wow, this is pretty!" Mia said. "But we can't go on the bridge with our bikes. What should we do?"
+
+"Let's settle our bikes here and walk across the bridge," Sam said. "We can come back for them later."
+
+They got off their bikes and left them by the sign. They took off their helmets and held them in their hands. They walked across the bridge and fed the ducks some bread. They had fun watching the ducks swim and quack.
+
+After a while, they decided to go back to their bikes. They put on their helmets and got on their bikes. They rode down the hill and back to the park. They were lively and happy.
+#### Perplexity: 14.955050468444824 vs. 48.61479187011719(base) ####
+Anna and Ben are friends. They like to play with toys and books. One day, Anna has a new toy. It is a kite. The kite has a long string and a tail. It is red and yellow and blue.
+
+"Can I borrow your kite?" Ben asks Anna. He wants to fly the kite in the sky.
+
+"Okay, but be careful," Anna says. She gives Ben the kite and the string. "Do not let go of the string. The kite will fly away."
+
+Ben takes the kite and runs to the field. He throws the kite in the air. The wind makes the kite go up and up. Ben feels the string pull in his hand. He smiles. The kite looks like a bird.
+
+Anna watches Ben from the bench. She sees the kite fly high and far. She sees the string get smaller and smaller. She feels sad. She misses her kite.
+
+"Ben, come back!" Anna calls. "It is time to go home. Give me back my kite."
+
+But Ben does not hear Anna. He is too busy with the kite. He does not see how distant the kite is. He does not notice that the string is loose. He does not feel the string slip from his hand.
+
+The kite flies away. The string falls to the ground. Ben looks up and sees nothing. He feels sad. He lost the kite.
+
+"Anna, I am sorry," Ben says. He runs to Anna with the string. "I did not mean to lose your kite. It was an accident."
+
+Anna is angry. She does not want the string. She wants her kite. She does not forgive Ben. She does not want to be his friend.
+
+They go home. They do not talk to each other. They do not play with toys and books. They are lonely and unhappy. They wish they had their kite and their friend.
+#### Perplexity: 193.10841369628906 vs. 734.0953979492188(base) ####
+Once upon a time, there was a poor little bird who lived in a pit. The bird was very hungry and wanted to eat some berries. But, when the bird went to pick the berries, a big, mean cat came along and scared the bird away.
+
+The bird was sad and hungry, so it flew to a nearby house to ask for help. The little girl who lived in the house saw the bird and asked, "What's wrong?"
+
+The bird replied, "I'm hungry and scared. The cat won't let me eat the berries."
+
+The little girl said, "Don't worry, I'll help you." She took the bird to her backyard where she had a bird feeder. The bird was so happy and thanked the little girl. From that day on, the bird never had to refuse a meal again.
+#### Perplexity: 37.74529266357422 vs. 100.7915267944336(base) ####
+Once upon a time, there was a little girl named Lily. She loved to play outside with her friends. One Wednesday, the sun was shining and it was so warm outside. Lily's mom encouraged her to go play outside and have fun.
+
+Lily ran outside and saw her friends playing hopscotch. She joined in and they all had a lot of fun. They played until the sun started to go down and it wasn't so warm anymore. 
+
+Lily's mom was so happy that she encouraged Lily to go outside and play. Lily was happy too because she had so much fun with her friends on that warm Wednesday.
+#### Perplexity: 36.708980560302734 vs. 116.04098510742188(base) ####
+Once upon a time, there was a naughty boy named Tim. Tim liked to pinch his sister's toys and eat all the cookies. One day, Tim's mother gave him a piece of coal and told him to keep it with him all day.
+
+Tim didn't like the coal. It was black and dirty. But he listened to his mother and kept it with him. Throughout the day, Tim felt the coal in his pocket and remembered what his mother said: "If you are naughty, you will get coal instead of presents from Santa."
+
+Tim realized that he didn't want coal for Christmas. He wanted toys and cookies. From that day on, Tim stopped being naughty. He played nicely with his sister and shared his cookies. And when Christmas came, he got lots of presents from Santa because he was a good boy.
+#### Perplexity: 31.866117477416992 vs. 82.05929565429688(base) ####
+Once upon a time, there was a boy named Timmy. He loved playing with his hammer, which was very big and heavy. One day, Timmy's friend Sarah came over to play. She asked to use Timmy's hammer, but he said no because he didn't want her to break it. 
+
+Sarah got upset and started to cry. Timmy felt bad and decided to let her use the hammer. But Sarah swung it too hard and the hammer broke into two pieces. Timmy got mad and told Sarah to leave his house. 
+
+Sarah felt bad and left with tears in her eyes. Timmy felt sad too, but he knew he had to teach Sarah how to be careful with things that were thick and heavy like his hammer. The next day, Timmy invited Sarah over again and showed her how to use the hammer safely. They played together and had fun, and Timmy was happy he didn't have to leave his friend behind.
+#### Perplexity: 66.9985122680664 vs. 152.88360595703125(base) ####
+Once upon a time, there was a little boy named Timmy. He loved playing with his cards. One day, he was playing with his cards when his sister came in.
+
+"Can I play too?" she asked.
+
+Timmy said, "Sure, it's easy. Here's a card for you."
+
+They played for a while, but then Timmy's sister won all the cards. Timmy was sad.
+
+"I surrender," he said.
+
+"Don't worry," said his sister. "We can play again." 
+
+They played again and this time, Timmy won. They both laughed and had fun together. The end.
+#### Perplexity: 51.582881927490234 vs. 148.32083129882812(base) ####
+Once upon a time, there was a little girl named Lily. She loved to play with her toys and go on adventures. One day, Lily went to the park with her mommy. They were having fun on the swings when Lily saw a scary bug.
+
+"Mommy, look at that scary bug!" Lily said.
+
+"It's okay, Lily. Bugs are our friends. They help us by eating other bugs," her mommy said.
+
+Lily was still scared. "But what if it bites me and I suffer?"
+
+"Don't worry, Lily. This bug is harmless. Let's go play on the slide instead," her mommy said.
+
+Lily forgot about the scary bug and went to play on the slide. She had so much fun with her mommy and was happy that she didn't have to suffer from the scary bug's bite.
+#### Perplexity: 9.186309814453125 vs. 20.840126037597656(base) ####
+Once upon a time, there was a little girl named Lily. She loved to play with her toys and eat candy. One day, her mommy asked her to clean up her toys. Lily didn't want to, but she knew it was the right thing to do.
+
+As she was cleaning, she realized that she had lost her favorite toy. She looked everywhere but couldn't find it. She started to cry and told her mommy what happened. Her mommy was very kind and helped her look for it.
+
+After a while, they found the toy under the bed. Lily was so happy and gave her mommy a big hug. "Thank you for helping me find my toy," she said. "Of course, sweetie," her mommy replied. "Remember, it's important to keep your things in order so you don't lose them." Lily nodded and promised to always keep her toys in order.
+#### Perplexity: 15.457348823547363 vs. 43.163063049316406(base) ####
+Once upon a time, there was a little girl named Lily. She loved her bed very much because it was soft and cozy. Every night, her mom would tuck her in and read her a story. Lily felt safe and happy in her bed.
+
+One day, Lily's mom went away for a while and left her with a babysitter. The babysitter seemed nice, but Lily didn't know her very well. She missed her mom and wished she was there to tuck her in.
+
+At bedtime, the babysitter put Lily to bed and said goodnight. But Lily didn't feel safe or happy anymore. She didn't trust the babysitter like she trusted her mom. She felt scared and alone in her bed.
+
+Suddenly, Lily heard a loud noise and the babysitter ran into her room. She was disorganized and didn't know what to do. Lily was even more scared now. She wished her mom was there to protect her.
+
+In the end, everything turned out okay. But Lily never forgot that scary night. She learned that it's important to trust the people who take care of you, especially at bedtime.
+#### Perplexity: 49.58021545410156 vs. 198.5104217529297(base) ####
+Once upon a time, there was a little boy named Timmy. Timmy was very sleepy because he had played all day. His mommy told him it was time for bed, but Timmy was too busy looking for a snack in the fridge. He found some yummy cheese and crackers, but his mommy said he had to hurry and eat quickly so he could go to bed. Timmy ate as fast as he could and then climbed into his cozy bed. He fell asleep right away and dreamed of all the fun things he would do the next day.
+#### Perplexity: 17.176883697509766 vs. 40.70943832397461(base) ####
+Once upon a time, there was a little bird named Tweety. Tweety loved to fly and sing all day long. One day, Tweety was flying over a busy ground when he saw a big, mean cat. The cat wanted to eat Tweety for dinner!
+
+Tweety quickly flew away, but the cat chased after him. Tweety was scared and didn't know what to do. Suddenly, he saw a group of other birds on the ground. He flew down and asked for their help. "Please help me, the cat is chasing me!" he said.
+
+The other birds recognized that Tweety was in trouble, so they all flew up and surrounded the cat. They chirped and flapped their wings, scaring the cat away. Tweety was so grateful to his new bird friends. He learned that it's always good to ask for help when you need it and that friends will always be there to protect you.
+#### Perplexity: 17.249202728271484 vs. 44.540340423583984(base) ####
+Once upon a time, there was a little girl named Lily. One day, Lily was walking in the park when she saw a stranger. The stranger looked scary and Lily started to shiver. 
+
+"Hello little girl," said the stranger. "What's your name?"
+
+"My name is Lily," she replied, still shivering. 
+
+The stranger smiled and said, "Don't be afraid, I won't hurt you."
+
+But Lily was still scared and frustrated. She didn't like talking to strangers. 
+
+"I want to go home now," Lily said, feeling braver. 
+
+"Okay, I'll walk you home," said the stranger kindly. 
+
+Lily felt relieved and thanked the stranger. She learned that not all strangers are bad, but it's okay to be cautious and ask for help when needed.
+#### Perplexity: 6.306312084197998 vs. 16.17749786376953(base) ####
+Once upon a time, a little girl named Lily went to the park with her mommy. They saw a tall tree and decided to sit under it. Lily's mommy brought a book and began to read to her. Lily loved to listen to stories.
+
+Suddenly, a boy came over and asked if he could use Lily's microscope. Lily didn't want to share because it was her favorite toy. The boy got mad and took the microscope away from her. Lily started to cry and her mommy tried to help her.
+
+The boy didn't give the microscope back and ran away. Lily was sad and her mommy hugged her. They went home without the microscope. Lily learned that sharing is important and not everyone is nice.
+#### Perplexity: 24.734163284301758 vs. 78.24278259277344(base) ####
+Once upon a time, a dog named Max went for a walk in the park. Max saw a big bone and wanted to grab it, but it was too far away. Max asked a boy if he could help him grab the bone. The boy said, "Sure, I can help you."
+
+The boy grabbed the bone and gave it to Max. Max was happy and wagged his tail. Max said, "Thank you, that was fair." The boy smiled and said, "You're welcome, Max. Have a good day!"
+
+Max ran home with his bone and showed it to his owner. His owner said, "Wow, that's a big bone! Good job, Max!" Max wagged his tail and felt proud of himself. From that day on, Max knew that if he needed help, he could ask someone and they would be fair and help him.
+#### Perplexity: 17.890703201293945 vs. 38.579402923583984(base) ####
+Once upon a time, there was a little boy named Timmy. Timmy loved to play in the rain. He would run outside and jump in puddles. One day, Timmy's mom told him not to go outside because it was raining too hard. But Timmy didn't listen and went outside anyway.
+
+Timmy ran around and splashed in the puddles. But then, he started to feel an itch on his arm. He looked down and saw a big mosquito bite. It was so itchy! Timmy tried to scratch it, but it only made it worse.
+
+Then, Timmy slipped and fell into a big puddle. He got all wet and cold. He realized that he should have listened to his mom and stayed inside. Timmy went back inside and told his mom what happened. She gave him some medicine for his mosquito bite and a warm towel to dry off. Timmy learned that sometimes it's better to listen to his mom and stay dry inside.
+#### Perplexity: 14.821311950683594 vs. 33.98216247558594(base) ####
+Once upon a time, there was a goat named Billy. Billy was a happy goat who loved to skip around in the fields. One day, Billy saw a big, mean dog who wanted to hurt him. Billy was scared and didn't know what to do. 
+
+But then, he saw a warm and cozy barn nearby. Billy ran as fast as he could and hid inside. The dog couldn't get in because the door was closed. Billy felt safe and happy in the barn. 
+
+Later, when the dog was gone, Billy skipped out of the barn and back into the fields. He was so happy to be free and safe again. From that day on, Billy knew that when he was in trouble, he could always find a warm and cozy place to hide.
+#### Perplexity: 13.361608505249023 vs. 33.6134147644043(base) ####
+Once upon a time, there was a boy named Timmy. Timmy was very excited because he was going to a special event at his school. He put on his best clothes and went to the event with his mom.
+
+When they arrived, it started to rain. Timmy's mom didn't have an umbrella, so they got wet. Timmy was upset because he didn't want to be wet at the event. He asked his mom if they could go home, but his mom said they couldn't because they were already there.
+
+Timmy saw a girl who also didn't have an umbrella. He remembered his mom had taught him to be polite, so he went over to her and shared his umbrella. The girl was very happy and thanked Timmy. Timmy felt better because he had helped someone and he didn't mind the rain anymore.
+#### Perplexity: 7.414220333099365 vs. 16.178504943847656(base) ####
+Once upon a time, there was a happy family who loved to drink grape juice. One day, they went to a big store to buy some grape juice. They found a bottle of grape juice that was very special. The bottle was big and had a shiny label that said "brilliant wine". They bought the bottle and took it home.
+
+The family opened the bottle and poured the wine into glasses. They tasted the wine and it was very yummy. But they decided that the wine was not for them. They wanted to return the wine to the store and get their money back. So they put the wine back into the bottle and went back to the store.
+
+When they got to the store, they gave the bottle of wine to the nice lady at the counter. They told her that they wanted to return the wine because it was not what they wanted. The lady smiled and gave them their money back. The family was happy that they could return the wine and get their money back. They went home and drank their grape juice, which was still their favorite drink. The end.
+#### Perplexity: 49.387001037597656 vs. 138.74307250976562(base) ####
+Once upon a time, there was a little girl named Lily. One day, she went outside to pick some fruit from the trees. She saw a big, juicy apple and a small, sweet orange. She wanted to eat them both, but she couldn't carry them all by herself.
+
+Suddenly, she saw her friend Billy walking by. She asked him if he wanted to join her and share the fruit. Billy was scared of climbing the tree, but Lily helped him up. Together, they picked the fruit and sat down to eat it. They were happy they could share and be friends.
+#### Perplexity: 34.73809814453125 vs. 97.82129669189453(base) ####
+Once upon a time, there was a boy named Timmy. Timmy loved to surf in the ocean. He would go to the beach every day and ride the waves. He was a regular surfer.
+
+One day, Timmy went to the beach and saw a big wave. He paddled out to catch it, but he struggled to stand up on his board. He fell off and got a big boo-boo on his knee.
+
+Timmy went home sad and upset. He couldn't surf for a while because of his boo-boo. He missed the ocean and the waves. One day, he went back to the beach and saw his friends surfing without him. He felt left out and alone.
+
+Timmy decided to try surfing again, even though his knee still hurt. He paddled out and caught a big wave. But then, he fell off his board and hit his head on a rock. Timmy got hurt badly and had to go to the hospital. He couldn't surf anymore and was sad. The end.
+#### Perplexity: 35.400821685791016 vs. 88.22150421142578(base) ####
+Once upon a time, there was a little girl named Lily. She loved to go outside and play in the grass. One day, she saw a bush with red berries on it. Lily was very curious, so she stepped closer to the bush. She picked a berry and tasted it. It was very sweet and kind of sour at the same time. Lily loved it! She picked more and more berries until her little hands were full. She ran back to her house to show her mommy and daddy. They were very happy and proud of her. From that day on, Lily loved to pick berries and share them with her family.
+#### Perplexity: 28.63240623474121 vs. 73.31841278076172(base) ####
+Summer and her mom were walking around the park on a cold Sunday morning. The leaves on the trees were starting to change color, and the air felt chilly. Summer liked the park and skipped ahead with her mom close behind.
+
+Suddenly, Summer saw a swing and ran toward it. But when she got close, she stopped and let out a big sigh. The swing was wet, cold, and too slippery to sit on. Summer looked up at her mom sadly. 
+
+Her mom smiled and took Summer's hand. She said, "Let's find something else to do. I bet there are lots more fun things in the park!"
+
+Summer and her mom spent the morning playing on the slide and exploring the trails. By the time they were ready to go home, the cold Sunday had turned into a sunny, fun-filled day.
+#### Perplexity: 66.60928344726562 vs. 138.46522521972656(base) ####
+Once upon a time, there was a little girl who loved to play. She was very playful and often spent her days making up wonderful games. 
+
+One day, while out playing in the park, she noticed something on the other side of the playground. 
+
+The little girl was surprised to find a big puppy! She walked over to the puppy and said, "Hi! What's your name?".
+
+The puppy looked up, seemed to smile, and said, "My name is Spot. I'm so pleased to meet you!". The little girl was absolutely delighted and asked Spot to join her in a game of tag.
+
+Spot seemed very excited and barked with joy. They played their game of tag for hours, running back and forth across the park. 
+
+As the little girl was about to go home, Spot barked one last time and gave her a big surprise! He had a special gift for her in his mouth - a beautiful and playful little puppy toy. 
+
+She hugged Spot and thanked him for the surprise. She asked if he would like to come to the park and play again. 
+
+Spot barked happily and said, "Yes! I can't wait!".
+#### Perplexity: 12.154340744018555 vs. 23.31736946105957(base) ####
+Once upon a time there was a thin computer. The computer was bored and wanted something to do. So it decided to take a rest.
+
+The computer rested for a long time and felt much better. With its energy restored, it was ready to do something new.
+
+The computer thought for a few minutes, then had an idea. It opened all its cabinets and searched until it found a box of coloured markers.
+
+The computer was so excited, it grabbed the markers and started to draw. It drew pictures of animals and castles and even made a funny face.
+
+When it was finished, the computer had made a beautiful picture. It was so proud of what it had done and decided to take another rest.
+#### Perplexity: 36.97882080078125 vs. 64.50318908691406(base) ####
+Once upon a time there was a scary sink. One day, a surprise happened. The sink opened and a big monster came out! He was green and had big spiky teeth. He was so scary that the people screamed. Everyone ran away and hid. But then something amazing happened. A brave little girl stepped up and faced the monster. She headed towards the monster and put her hands on her hips. The monster smiled and gave her a big hug. Everyone was so excited and happy that the brave girl had saved them all!
+#### Perplexity: 70.03548431396484 vs. 133.57630920410156(base) ####
+John and his dad were camping. They had been out in the wild for three days, it was getting dark.
+
+John found a flashlight and started to unpack it. He was very excited to explore with it and his dad was happy John was having a fine time.
+
+Suddenly, the flashlight stopped working. His dad tried to unpack it, but it had broken. John was very sad and his dad felt bad. They had no way of lighting the way and they had to return to their tent without seeing the stars. 
+
+John felt disappointed and was not sure what to do. His dad knew they would have to wait until morning now and the camping trip was at an end.
+#### Perplexity: 13.731337547302246 vs. 26.8330020904541(base) ####
+It was a wild day, and the sky was grey. Rain was coming down from the clouds, pouring heavily. Joe looked out the window, and saw that he couldn't go outside. He was sad, so he decided to visit the lab with his mom.
+
+When they got to the lab, Joe was excited to see all the interesting things. He saw colorful beakers with bubbly liquid inside. He saw containers filled with tiny animals and plants. There were giant machines that hummed and whirred.
+
+But Joe wasn't allowed to touch anything. His mom made sure he kept his hands to himself. Though he was a bit sad at first, he ended up having a great time just looking at everything in the lab. The rain was still pouring outside, so they stayed a while longer.
+
+When they finally left, Joe and his mom headed home. Joe was happy to be back in the warmth and dryness of their house. He said goodbye to the wild rain and the fantastic lab, and looked forward to coming back some day.
+#### Perplexity: 31.234590530395508 vs. 58.32459259033203(base) ####
